@@ -1,0 +1,9 @@
+.headings {
+    font-size: 66px;
+    text-align: center;
+    animation
+}
+
+.heading:hover {
+    color: indigo;
+}
